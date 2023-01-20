@@ -1,5 +1,7 @@
 # Git / GitHub
-          
+
+Git es un software que vas a instalar en tu computadora. Es una herramienta básica en el desarrollo de software y análisis de datos. 
+         
 - Instalar Git ( https://git-scm.com )
 
 - Crear cuenta en GitHub (github.com)
@@ -15,7 +17,7 @@
 - Crear README.md y notebooks
 > En una terminal:
 
-     $ echo "# Mi proyecto" >> README.md (en caso que no se haya creado anteriormente)
+     $ echo "# Mi proyecto" >> README.md _(en caso que no se haya creado anteriormente)_
      $ git init
      $ git add .
      $ git status
@@ -25,7 +27,7 @@
      $ git remote add origin https://github.com/alrakomala/myRepo.git
      $ git push -u origin main
 
-- abrirá ventana para introducir numbre de usuario y token
+- abrirá ventana para introducir nombre de usuario y token
 
 Listo :exclamation: 
 

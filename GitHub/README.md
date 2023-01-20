@@ -2,7 +2,7 @@
 
 Git es un software que se instala localmente (en tu computadora) y guarda las diferentes etapas de desarrollo de un código. Es una herramienta básica en el desarrollo de software y análisis de datos. 
 
-GitHub es una página web que facilita el desarrollo de código en equipo, y compartirlo con la comunidad interesada.
+GitHub es una página web que facilita el desarrollo de código en equipo y compartirlo con la comunidad interesada.
          
 - Instalar Git ( https://git-scm.com )
 

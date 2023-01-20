@@ -1,6 +1,8 @@
 # Git / GitHub
 
-Git es un software que vas a instalar en tu computadora. Es una herramienta básica en el desarrollo de software y análisis de datos. 
+Git es un software que se instala localmente (en tu computadora) y guarda las diferentes etapas de desarrollo de un código. Es una herramienta básica en el desarrollo de software y análisis de datos. 
+
+GitHub es una página web que facilita el desarrollo de código en equipo, y compartirlo con la comunidad interesada.
          
 - Instalar Git ( https://git-scm.com )
 
@@ -41,6 +43,7 @@ Se pueden hacer cambios en los documentos locales o directamente en github.com
      $ git push 
 
 > Despues de hacer cambios en github.com (o cuando es un proyecto compartido, etc...):
+
      $ git pull
 
 para registrar los cambios en nuestra carpeta local. 

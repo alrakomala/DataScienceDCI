@@ -14,6 +14,17 @@ GitHub es una página web que facilita el desarrollo de código en equipo y comp
    - Seguir instrucciones en la terminal
 
    - Crear **Token**
+   	- Settings (esquina superior derecha)
+    	- Developer Settings (columna izquierda hasta abajo)
+    	- Personal access tokens
+    		- tokens (classic)
+    	- Generate new token (botón gris)
+    		- Generate new token (classic)
+    	- Note: _cualquier nombre_  token_claseDS
+    	- Indicar fecha de expiración: 180 días
+    	- Seleccionar casilla **repo**
+    	- Generar token (Botón verde)
+    	- :exclamation: :exclamation: <span style="color:blue"> **GUARDAR** cadena de caracteres en un documento!! </span>
 
 - Crear directorio donde estará el contenido del repositorio
 - Crear README.md y notebooks
@@ -31,8 +42,8 @@ GitHub es una página web que facilita el desarrollo de código en equipo y comp
 
 - abrirá ventana para introducir nombre de usuario y token
 
-Listo :exclamation: 
-
+<span style="color:blue"> Listo!! </span>
+  
 Se pueden hacer cambios en los documentos locales o directamente en github.com
 
 > Despues de hacer cambios de manera local:

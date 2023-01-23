@@ -12,7 +12,6 @@ GitHub es una página web que facilita el desarrollo de código en equipo y comp
    - Indicar _Privado_ o _Publico_
    - Crear
    - Seguir instrucciones en la terminal
-
    - Crear **Token**
 
    	- Settings (esquina superior derecha)
@@ -25,7 +24,7 @@ GitHub es una página web que facilita el desarrollo de código en equipo y comp
     	- Indicar fecha de expiración: 180 días
     	- Seleccionar casilla: **repo**
     	- Generar token (Botón verde)
-    	- :exclamation: <font color='red'> **GUARDAR** cadena de caracteres en un documento. </font>
+    	- :exclamation: **GUARDAR** cadena de caracteres en un documento :exclamation:
 
 - Crear directorio donde estará el contenido del repositorio
 - Crear README.md y notebooks
@@ -43,7 +42,7 @@ GitHub es una página web que facilita el desarrollo de código en equipo y comp
 
 - abrirá ventana para introducir nombre de usuario y token
 
-<font color='blue'> Listo!! </font>
+Listo!!
   
 Se pueden hacer cambios en los documentos locales o directamente en github.com
 

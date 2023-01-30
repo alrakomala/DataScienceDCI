@@ -1,7 +1,7 @@
 # Fundamentos de Python
 
 - Tipos de variables
-- Operadores (aritméticos y lógicos)
+- Operadores 
 - While/For loops
 - Funciones
 - listas / arrays / diccionarios

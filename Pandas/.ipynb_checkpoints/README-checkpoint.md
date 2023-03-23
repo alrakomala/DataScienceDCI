@@ -17,10 +17,12 @@
     * lectura/escritura de archivos csv, JSON
     
 * Manipulación avanzada de DataFrames
-    * eliminación de NaNs
-    * índices múltiples 
+    * eliminación de NaNs 
     * apply
-    * agregaciones
+    * group by / agregaciones
     * merge/join
- 
+    * índices múltiples
+
+* Visualización de datos 
+
 * Time series

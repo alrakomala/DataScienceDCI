@@ -1,0 +1,9 @@
+      nombre   # vocales   
+       karla           2   
+   123490909           0   
+mariana12349           4   
+    abc12349           1   
+    abc12349           1   
+    dci_ugto           3   
+    dci_ugto           3   
+    dci_ugto           3   

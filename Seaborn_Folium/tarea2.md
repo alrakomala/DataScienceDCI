@@ -1,6 +1,7 @@
 # Tarea 2
 
 * Buscar dataset con datos de los diferentes estados de México. 
+
 * En caso que sea necesario:
     * Quitar NaNs
     * Cambiar tipo de dato

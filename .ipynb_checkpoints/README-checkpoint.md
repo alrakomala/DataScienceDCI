@@ -55,15 +55,20 @@ Curso optativo para estudiantes de licenciatura en la División de Ciencias e In
 	- Visualización de datos 
 
 	- Time series
-- Seaborn
-	- displot
-    - jointplot
-    - paiplot
+    
+- [Seaborn_Folium](./Seaborn_Folium)
+	- Seaborn
+        - displot
+        - jointplot
+        - paiplot
+	- Folium
+        - mapa coroplético
+
+- Bases de datos 
+	- relacionales ([SQL](./SQL))
+	- no relacionales (formato JSON)
 
 - Búsqueda en la web (documentación, blogs, stackoverflow)
-- Bases de datos 
-	- relacionales (SQL)
-	- no relacionales (formato JSON)
 - Exploración de datos  
 - Limpieza de los datos (acción sobre valores faltantes/incorrectos, recastear, eliminar/renombrar columnas, reshape, nueva indexacion, merging/joining)
 - Análisis 

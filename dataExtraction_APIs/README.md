@@ -7,7 +7,7 @@ Software intermediario que permite la transferencia de datos entre diferentes ap
 La arquitectura mas usada es _REpresentational State Transfer (REST)_. 
 Las APIs REST simplifican la comunicación cliente-servidor. 
 
-Para lograr una interacción entre cliente-servidor (request) utilisando una API REST, se requiere:
+Para lograr una interacción entre cliente-servidor (**request**) utilizando una API REST, se requiere:
 
 - Endpoint: URL
 - Método: acción

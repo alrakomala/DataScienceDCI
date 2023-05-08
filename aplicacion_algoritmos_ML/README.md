@@ -38,7 +38,8 @@ El modelo trabaja con datos no etiquetados para encontrar patrones y estructuras
 
 ### Algoritmos de Refuerzo
 
-El algoritmo aprende a tomar decisiones en un entorno interactivo (con incertidumbre y sujeto a cambio) a través de prueba y error buscando acciones con las mayores recompensas (o minimizando el castigo). 
+El algoritmo aprende a tomar decisiones en un entorno interactivo (con incertidumbre y sujeto a cambio) a través de prueba y error buscando acciones con las mayores recompensas (o minimizando el castigo). Aplicado a robótica y juegos, entre otros.
+
 agente: la componente que toma las decisiones\
 ambiente: todo con lo que el agente interactúa\
 acciones: lo que el agente puede hacer
@@ -62,7 +63,7 @@ acciones: lo que el agente puede hacer
 
 ## Librería [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 
-Librería mas usada para análisis de datos utilizando aprendizaje automatizado (variedad de erramientas y algoritmos). 
+Librería más usada para análisis de datos utilizando aprendizaje automatizado (variedad de herramientas y algoritmos). 
 
 Pasos básicos:
 
@@ -82,7 +83,11 @@ Pasos básicos:
 
 
 > X, y = ...   # definir variables
+
 > X_train, X_test, y_train, y_test   # particionar datos
+
 > model.fit(x_train,y_train)
+
 > model.predict(y_train)
+
 > evaluar

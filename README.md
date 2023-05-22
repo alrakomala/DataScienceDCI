@@ -71,19 +71,14 @@ Curso optativo para estudiantes de licenciatura en la División de Ciencias e In
 - Búsqueda en la web (documentación, blogs, stackoverflow)
 - Exploración de datos  
 - Limpieza de los datos (acción sobre valores faltantes/incorrectos, recastear, eliminar/renombrar columnas, reshape, nueva indexacion, merging/joining)
-- Análisis 
-	- estadística descriptiva
-	- estadística inferencial / pruebas de hipótesis / visualización
-		- Seaborn
-		- Scipy (statsmodels)
 - [Aplicación de Modelos de aprendizaje automatizado](./machine_learning)
     - Scikit-learn
-	- Regresion lineal
-	- Regresion logistica
-	- K-Nearest Neighbours
-	- Support Vector Machine
-	- K-Means Clustering
-	- PCA
-	- Decision Trees and Random Forests
-	- Natural Language Processing
+        - Regresion lineal
+        - Regresion logistica
+        - Decision Trees and Random Forests
+        - Support Vector Machine
+        - K-Means Clustering
+        - Redes neuronales artificiales
+        
+     - Natural Language Processing
 -------
